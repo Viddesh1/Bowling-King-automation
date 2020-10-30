@@ -10,3 +10,4 @@ Third:- java -jar ADB-GUI-Tool-0.1.9.jar
 
 Make sure that your decive is connected and USB debugging is on or connected via wifi
 Inside the yapplication click to terminal paste the adb command and click on Go! button
+this command work for oppo neo 7 device
